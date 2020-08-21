@@ -21,7 +21,7 @@ while True:
             os.system("chrome")
         elif("photoshop" in command or "photo editor" in command or "graphics maker" in command):
             os.system("Photoshop")
-        elif("program editor" in command or "ide" in command or "program writer" in command or "code" in command or "vs code" in command or "program" in command):
+        elif("program editor" in command or "program writer" in command or "code" in command or "vs code" in command or "program" in command):
             os.system("Code")
         elif("text editor" in command or "editor" in command or "notepad" in command or "notebook" in command):
             os.system("notepad")
